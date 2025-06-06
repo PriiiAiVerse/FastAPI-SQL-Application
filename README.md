@@ -1,5 +1,5 @@
-🚀 FastAPI x MySQL - My First Backend API Integration Project
----
+
+<h1 align="center">🚀 FastAPI x MySQL CRUD API Integration Project</h1>
 
 
 ![App Screenshot](images/fastapi.jpg)
@@ -131,8 +131,13 @@ uvicorn main:app --reload
 | POST   | `/users`      | Create a new user |
 | GET    | `/users/{id}` | Get user by ID    |
 
-![App Screenshot](images/2.0.jpg)
-![App Screenshot](images/sql_tables.jpg)
+
+##  
+<p align="center">
+  <img src="images/sql_tables.jpg" alt="App Screenshot 1" width="45%"/>
+  <img src="images/2.0.jpg" alt="App Screenshot 2" width="45%"/>
+</p>
+
 
 ----
 
@@ -146,16 +151,10 @@ I'm excited to keep growing! Here's what I plan to explore next:
 
 3. Deploying this API on Render, Railway, or AWS
 
-----
-
-💡 Final Thoughts
-This project is small, but it’s a meaningful step forward in my AI/ML + backend journey. By combining modern tools like FastAPI with robust databases like MySQL, I now have a clearer picture of how production systems are built — and I’m just getting started.
 
 
 ----
 
-## Author - PriiiAiVerse
+ ## Author - PriiiAiVerse
 
-## License
-
-This project is licensed under the MIT License -
+ ## License  :  This project is licensed under the MIT License 
